@@ -30,16 +30,15 @@
 </div>
 
 # 🧑🏻‍💻 About me:
-Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software developer.<br> From 🇮🇹 (with love), based in 🇬🇧.
+Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software developer.
 
 * 💻 [Makers Acadamy](https://makers.tech/software-developer-career/?utm_source=google&utm_medium=cpc&utm_campaign=RK-Brand-Search&utm_term=makers&utm_campaign=RK_Brand_Search_B2C&utm_source=adwords&utm_medium=ppc&hsa_acc=7172166340&hsa_cam=18923739809&hsa_grp=146296844529&hsa_ad=634895450071&hsa_src=g&hsa_tgt=kwd-10078111&hsa_kw=makers&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8qmhBhClARIsANAtbodKwHwcUvcq1x8MtIX563KIKjWGwvVtfimfB3VbyvAqbvKSGttCHkYaAlxdEALw_wcB) on my way to graduate - October 2023.
-* 🌱 I’m currently learning ...
-* 👯 I’m looking to collaborate on ...
+* 📍 From 🇮🇹 (with love), based in 🇬🇧.
 * 🔍 Seeking opportunities in the tech industry
-* 💬 Ask me about 
+* 💬 Ask me about anything!!
 * 📫 How to reach me: quadraccia.rob@gmail.com
 * 😄 Pronouns: He/His
-* ⚡ Fun fact: ...
+* ⚡ Fun fact: I am a really extrovert person and once, while attending a party, I was mistaken as the host 😅
 
 # Hobbies and Interests:
 * 🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
