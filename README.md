@@ -40,4 +40,16 @@ Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software dev
 * 🗣️ Languages - Currently speaking Italian, English and Spanish fluently. More to come...
 * 📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
 * 🧑‍🍳 Cooking - Something to do in my spare time.
-* 📰 News - Staying informed about Tech, Business, and Finance.
+* 📰 News - Reading about Tech, Business, and Finance.
+
+# 💻 Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
