@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 <div id="badges">
@@ -23,15 +24,20 @@
 </h1>
 
 # 🧑🏻‍💻 About me:
-Hi, I'm Roberto. A prospective software developer  with an ambition to swap the
-manufacturing environment for a new career in the tech industry.
+Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software developer from 🇮🇹,<br>currently living in 🇬🇧. 
 
-* 🧑🏻‍💻 I’m currently working on ...
+* 💻 [Makers Acadamy](https://makers.tech/software-developer-career/?utm_source=google&utm_medium=cpc&utm_campaign=RK-Brand-Search&utm_term=makers&utm_campaign=RK_Brand_Search_B2C&utm_source=adwords&utm_medium=ppc&hsa_acc=7172166340&hsa_cam=18923739809&hsa_grp=146296844529&hsa_ad=634895450071&hsa_src=g&hsa_tgt=kwd-10078111&hsa_kw=makers&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw8qmhBhClARIsANAtbodKwHwcUvcq1x8MtIX563KIKjWGwvVtfimfB3VbyvAqbvKSGttCHkYaAlxdEALw_wcB) on my way to graduate - October 2023.
 * 🌱 I’m currently learning ...
 * 👯 I’m looking to collaborate on ...
 * 🔍 Seeking opportunities in the tech industry
-* 💬 Ask me about ...
+* 💬 Ask me about 
 * 📫 How to reach me: quadraccia.rob@gmail.com
-* 😄 Pronouns: ...
+* 😄 Pronouns: He/His
 * ⚡ Fun fact: ...
 
+# Hobbies and Interests:
+* 🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
+* 🗣️ Languages - Currently speaking Italian, English and Spanish fluently. More to come...
+* 📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
+* 🧑‍🍳 Cooking - Something to do in my spare time.
+* 📰 News - Staying informed about Tech, Business, and Finance.
