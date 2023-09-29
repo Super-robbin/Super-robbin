@@ -46,7 +46,7 @@ Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software dev
 * 🧑‍🍳 Cooking - Something to do in my spare time.
 * 📰 News - Reading about Tech, Business, and Finance.
 
-# 💻 Languages & Tools:
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
