@@ -24,7 +24,7 @@
 </h1>
 <div align="center">
   <a href="http://www.github.com/Super-robbin">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Super-robbin&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&include_all_commits=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-robbin&layout=compact&theme=dracula&langs_count=7"/>
  </a>
 </div>
