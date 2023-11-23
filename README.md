@@ -37,7 +37,8 @@ Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software dev
 * 🔍 Seeking opportunities in the tech industry
 * 💬 Ask me about anything!!
 * 📫 How to reach me: quadraccia.rob@gmail.com
-* 📄 You can find out more about me: [CV](https://github.com/Super-robbin/CV)
+* 💻 My personal portfolio can be found [here](https://robertoquadraccia.com/)
+* 📄 You can find out more about me: [GitHub-CV](https://github.com/Super-robbin/CV) | [Standard-CV](https://robertoquadraccia.com/CV.pdf)
 * ⚡ Fun fact: I am a really extrovert person and once, while attending a party, I was mistaken as the host 😅
 
 # Hobbies and Interests:
