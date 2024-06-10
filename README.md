@@ -41,13 +41,6 @@ Hi, I'm Roberto. A curious, enthusiastic and prospective full-stack software dev
 * 📄 You can find out more about me: [GitHub-CV](https://github.com/Super-robbin/CV) | [Standard-CV](https://robertoquadraccia.com/CV.pdf)
 * ⚡ Fun fact: I am a really extrovert person and once, while attending a party, I was mistaken as the host 😅
 
-# Hobbies and Interests:
-* 🌍 Travelling - I love exploring new places and cultures, definitely the best investment of my life.
-* 🗣️ Languages - Currently speaking Italian 🇮🇹, English 🇬🇧 and Spanish 🇪🇸 fluently. More to come...
-* 📺 Movies and TV Series - Breaking Bad is still holding first place ranking.
-* 🧑‍🍳 Cooking - Something to do in my spare time.
-* 📰 News - Reading about Tech, Business, and Finance.
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
